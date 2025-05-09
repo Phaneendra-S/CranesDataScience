@@ -1,0 +1,4 @@
+Dear all
+This is file handling
+We are learning the text file operations
+This is really interesting
